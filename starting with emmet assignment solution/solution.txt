@@ -1,0 +1,11 @@
+Ans1. 
+Emmet abbreviation is a shorthand syntax that allows you to write HTML and CSS code faster. You type a short string of characters, and Emmet expands it into full code snippets.
+for example: '!' is emmet abbreviation for the code snippet of basic html code
+
+Ans2.
+1. Saves Time: Quickly writes long code snippets from short abbreviations.
+2. Reduces Errors: Less typing means fewer mistakes.
+3. Increases Productivity: Speeds up coding, so you get more done faster.
+4 Easy to Learn: Simple abbreviations that are easy to remember.
+5. Works in Many Editors: Available in popular text editors like VS Code, Sublime Text, and Atom.
+6. Supports HTML & CSS: Helps with both HTML structure and CSS styling.
